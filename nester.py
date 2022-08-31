@@ -9,3 +9,4 @@ def checklist(thelist):
 print('helo!')
 print('BOTAFOGO!')
 print('mudado no github')
+print('mudança no vscode.')
