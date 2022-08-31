@@ -7,3 +7,4 @@ def checklist(thelist):
 
 
 print('helo!')
+print('BOTAFOGO!')
